@@ -1,0 +1,11 @@
+c:\users\gll\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\bin\Debug\Market Uygulaması.exe.config
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\bin\Debug\Market Uygulaması.exe
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\bin\Debug\Market Uygulaması.pdb
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\obj\Debug\Market Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\obj\Debug\Market_Uygulaması.Form1.resources
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\obj\Debug\Market_Uygulaması.Genelİşlemler.resources
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\obj\Debug\Market_Uygulaması.musterisec.resources
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\obj\Debug\Market_Uygulaması.Properties.Resources.resources
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\obj\Debug\Market Uygulaması.csproj.GenerateResource.Cache
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\obj\Debug\Market Uygulaması.exe
+C:\Users\GLL\documents\visual studio 2013\Projects\Market Uygulaması\Market Uygulaması\obj\Debug\Market Uygulaması.pdb
